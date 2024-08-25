@@ -1,25 +1,17 @@
 <img alt="Coding" width="1200" height="300" src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png"/>
-<h1 align="center">Hi 👋, I'm Rafay Shaikh</h1>
-<h3 align="center">A passionate Mern developer.</h3>
+<h1 align="center">Hey 👋, I'm Rafay Shaikh</h1>
+<h3 align="center">Passionate Software Developer with a knack for turning complex
+ problems into optimized solutions. With over 1.5 years of experience in
+ full-stack development and programming,</h3>
 <img alt="Coding" align = "right" width="300"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbOW1bIyCBYHB1ER2NGI60bUArJdN3h5E1w&usqp=CAU"/>
 
-- 🌱 I’m currently learning **react,tailwind**
-
-- 💬 Ask me about **Mern**
-
 - 📫 How to reach me **rafayshaikh247@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xgkdxdtv-b7PNWdGYqU93bgm1bQ6wQDQ/view?usp=drive_link](https://drive.google.com/file/d/1xgkdxdtv-b7PNWdGYqU93bgm1bQ6wQDQ/view?usp=drive_link)
-
-- ⚡ Fun fact **I am funny/humorous**
+- 📄 [Portfolio](https://rafay-shaikh.app.netlify)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rafayyy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafayyy2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rafayshaikh247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafayshaikh247" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13994198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13994198" height="30" width="40" /></a>
-<a href="https://fb.com/rafay.shaikh.7127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafay.shaikh.7127" height="30" width="40" /></a>
-<a href="https://instagram.com/rafay_shaikh247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafay_shaikh247" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rafayshaikh247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rafayshaikh247" height="30" width="40" /></a>
 </p>
 
