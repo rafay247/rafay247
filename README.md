@@ -6,7 +6,7 @@
 <img alt="Coding" align = "right" width="300"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbOW1bIyCBYHB1ER2NGI60bUArJdN3h5E1w&usqp=CAU"/>
 
 - 📫 How to reach me **rafayshaikh247@gmail.com**
-- 📄 [Portfolio](https://rafay-shaikh.app.netlify)
+- 📄 [Portfolio](https://rafay-shaikh.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
